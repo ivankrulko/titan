@@ -1,0 +1,5 @@
+p {font-size: larger;}
+h1 {color: #000000; font-family: "Roboto", Times, serif;}
+h2 {color: black; font-family: "Roboto", Times, serif}
+.imgmiddle {display: block; margin-left: auto; margin-right: auto;}
+a:hover {color:purple}
